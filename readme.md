@@ -2,7 +2,6 @@
 
 - Websites:
   - Official website of the book *Learning R*: <https://pzhaonet.github.io/xuer>
-  - Gallery of HES LAB: <https://pzhaonet.github.io/hes/>
 - Books:
   - The TNT Cookbook: <https://pzhaonet.github.io/btcookbook/>
 - Packages:
