@@ -1,5 +1,7 @@
 ### Sites hosted on github.io
 
+- Documents:
+  - Webpage instead of slides: <https://pzhaonet.github.io/webpage_instead_of_slides/>
 - Websites:
   - Official website of the book *Learning R*: <https://pzhaonet.github.io/xuer>
 - Books:
