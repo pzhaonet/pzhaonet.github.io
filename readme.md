@@ -3,6 +3,7 @@
 - Documents:
   - Webpage instead of slides: <https://pzhaonet.github.io/webpage_instead_of_slides/>
 - Websites:
+  - Visualization of the newest dataset in a weather station: <https://pzhaonet.github.io/everest>
   - Official website of the book *Learning R*: <https://pzhaonet.github.io/xuer>
 - Books:
   - The TNT Cookbook: <https://pzhaonet.github.io/btcookbook/>
