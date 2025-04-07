@@ -2,6 +2,7 @@
 
 - Documents:
   - Webpage instead of slides: <https://pzhaonet.github.io/webpage_instead_of_slides/>
+  - R Graphs: <https://pzhaonet.github.io/html/r-graphs.html>
 - Websites:
   - Visualization of the newest dataset in a weather station: <https://pzhaonet.github.io/everest>
   - Official website of the book *Learning R*: <https://pzhaonet.github.io/xuer>
